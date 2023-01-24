@@ -7,7 +7,6 @@
 <p align="center">Front End Developer</p>
 <p align="center">Brazilian developer</p>
 <ul>
-  <li> 🔭 I am working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a>;</li> <br>
   <li> 🔭 I'm a scholarship holder at at <a href="https://www.embrapa.br/gado-de-leite" target="_blank">Embrapa Gado de Leite</a>;</li> <br>
   <li> 🌱 I am learning JavaScript, React and React Native;</li> <br>
   <li> 📍 I am from Tombos, Minas Gerais, Brazil;</li> <br>
