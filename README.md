@@ -7,7 +7,7 @@
 <p align="center">Front End Developer</p>
 <p align="center">Brazilian developer</p>
 <ul>
-  <li> 🔭 I'm a scholarship holder at at <a href="https://www.embrapa.br/gado-de-leite" target="_blank">Embrapa Gado de Leite</a>;</li> <br>
+  <li> 🔭 intern at swl ;</li> <br>
   <li> 🌱 I am learning JavaScript, React and React Native;</li> <br>
   <li> 📍 I am from Tombos, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:gabriellacsilva2002@gmail.com" target="_blank">gabriellacsilva2002@gmail.com</a>;</li> <br>
